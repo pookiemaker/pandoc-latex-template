@@ -1,17 +1,33 @@
 ---
-title: "Vinaque sanguine metuenti cuiquam Alcyone fixus"
+title: "Marine Science Foundation"
 author: [Author Name]
-date: "2017-02-20"
+date: "07-30-2020"
 subject: "Markdown"
 keywords: [Markdown, Example]
-subtitle: "Aesculeae domus vincemur et Veneris adsuetus lapsum"
+subtitle: "Template"
 lang: "en"
 titlepage: true,
-titlepage-text-color: "FFFFFF"
-titlepage-rule-color: "360049"
+titlepage-color: "000000"
+titlepage-text-color: "d5d9e0"
+titlepage-rule-color: "d5d9e0"
 titlepage-rule-height: 0
 titlepage-background: "background.pdf"
+logo: "MSFlogo.pdf"
+logo-width: 320
+toc: true
+toc-own-page: true
+book: true
+top-level-division: chapter
+classoption: oneside
+numbersections: true
+
 ...
+
+# Chapter Alpha
+fsdgs  dfg afg sfgd  egaet a
+
+# Chapter beamertemplatenavigationsymbols
+af adfg adfa  hsdfgsdgf  
 
 # Vinaque sanguine metuenti cuiquam Alcyone fixus
 
